@@ -53,7 +53,7 @@
 
 ##### * Para instalar las dependencias debes ejecutar el comando ``npm instal``
 ##### * Para correr el servidor debes ejecutar el script/comando ``npm start`` 
-##### * Este servidor corre en el puerto:3000
-=======
+##### * https://pensive-northcutt-1d0d1a.netlify.app/
+
 
 
