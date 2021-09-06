@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img height="400" src="./assets/fast-food.png"/>te
+    <img height="400" src="https://us.123rf.com/450wm/subbotina/subbotina1905/subbotina190500024/123093476-hamburguesa-y-doble-hamburguesa-con-queso-con-patatas-fritas-mesa-de-madera.jpg?ver=6"/ alt="not found"> 
 </p>
 
 
