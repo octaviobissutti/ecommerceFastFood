@@ -6,7 +6,7 @@
 ### Bienvenidos al e-commerce de comidas rapidas
 
 
-💻 Para visitarla = {() => https://pensive-northcutt-1d0d1a.netlify.app/}  
+💻 Para visitarla https://pensive-northcutt-1d0d1a.netlify.app  
 
 Usamos las siguientes tecnologías en Javascript:
 
